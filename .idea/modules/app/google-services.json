@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "363719590887",
+    "firebase_url": "https://fyxbuddy-18a9e.firebaseio.com",
+    "project_id": "fyxbuddy-18a9e",
+    "storage_bucket": "fyxbuddy-18a9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363719590887:android:029cf2298ecdf0e5e0f342",
+        "android_client_info": {
+          "package_name": "com.arun.fyxbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363719590887-2l43pog0ect3lnvi9fk55eiolqqhutgn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arun.fyxbuddy",
+            "certificate_hash": "655af809ad21d6e686bbec299b9b129cb445046a"
+          }
+        },
+        {
+          "client_id": "363719590887-02eo2kbpfmls7ssdg42e839ork737b8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJaqUvOZ6lZQn94Rq8tBqmrf8-HYhyoLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363719590887-02eo2kbpfmls7ssdg42e839ork737b8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
